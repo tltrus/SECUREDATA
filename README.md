@@ -3,7 +3,7 @@
 
  Password is **qwrty**
 
- MyYoutube https://youtu.be/gB5lxEkXLBc
+ - Youtube: https://youtu.be/gB5lxEkXLBc
 
  Class Crypto is based on http://www.cyberforum.ru/csharp-beginners/thread1497922.html
 
